@@ -11,8 +11,7 @@ This project contains,
 7.Joining (1 Equijoin, 1 Outer join, 1 self- join) with screenshots.
 8.Subquery (2 subqueries) with screenshots.
 9.View (1 Complex view,1 simple view) with screenshot.
-10.Add a constraint in any of your table with screenshot
-
+10.Add a constraint in any of your table with screenshot.
 
 
 ![car-parking-management-Final](https://user-images.githubusercontent.com/108008599/207929538-52c6e3b4-c04c-477d-aa19-35bfe0511743.png)

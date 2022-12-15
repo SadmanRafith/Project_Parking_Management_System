@@ -2,8 +2,6 @@
 A database project using MySQL
 --------------------------------------------
 This project contains,
-
-
 1.Project Title, Name and ID of Group Members
 2.Scenario
 3.ER Diagram based on the Scenario 
